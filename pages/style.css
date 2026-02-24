@@ -1,0 +1,19 @@
+h3{
+    color: deeppink;
+    background-color: aliceblue;
+}
+
+p1{
+    color: lightseagreen;
+    background-color: whitesmoke;
+    font-size: 24px;
+    font-weight: 300px;
+    font-display: block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: solid;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+
+}
